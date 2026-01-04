@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Welcome to Jekyll!"
+title:  "HI ELAINE!!!! I love you(from james's website)"
 date:   2025-12-30 22:50:57 -0700
 categories: jekyll update
 ---
